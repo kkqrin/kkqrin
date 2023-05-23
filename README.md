@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
   ###### 👩‍💻  주니어 개발자 김규린
  📧 E-mail : qqrin@naver.com
-  <br>
- 🗂 Portfolio : @@@
-  <br>
+<!--   <br> -->
+<!--  🗂 Portfolio : @@@ -->
+<!--   <br> -->
  🏚 Blog : <a href="https://qrin.tistory.com/">tistory link</a>
 <!--   <a href="https://qrin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a> -->
   
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   
   
   <br><br><br><br><br>

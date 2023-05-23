@@ -57,5 +57,5 @@ Here are some ideas to get you started:
   <br><br><br><br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkqrin&theme=buefy&show_icons=true)
   <br><br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BEA3ED&title_bg=%238A8A8A&icon=iconify.svg&icon_color=%23E7E7E7&title=&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkqrin%2Fhit-counter&count_bg=%23BEA3ED&title_bg=%238A8A8A&icon=iconify.svg&icon_color=%23E7E7E7&title=&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>

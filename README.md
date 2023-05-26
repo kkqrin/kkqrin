@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
   #### 👩‍💻  주니어 개발자 김규린
- 📧 E-mail : qqrin@naver.com
+ 📧 E-mail : kkqrin@gmail.com
 <!--   <br> -->
 <!--  🗂 Portfolio : @@@ -->
 <!--   <br> -->
